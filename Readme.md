@@ -1,4 +1,3 @@
-# Smart-India-Hackathon-2019
 Driver alertness and rash driving detection
 
 This repository consists of different files and data for driver alertness system.
